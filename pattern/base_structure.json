@@ -1,0 +1,20 @@
+{
+    "id": "*",
+    "destination_id": "*",
+    "name": "*",
+    "location.lat": "*",
+    "location.lng": "*",
+    "location.address": "*",
+    "location.city": "*",
+    "location.country": "*",
+    "description": "*",
+    "amenities.general.#id": "*",
+    "amenities.room.#id": "*",
+    "images.rooms.#id.link": "*",
+    "images.rooms.#id.description": "*",
+    "images.site.#id.link": "*",
+    "images.site.#id.description": "*",
+    "images.amenities.#id.link": "*",
+    "images.amenities.#id.description": "*",
+    "booking_conditions.#id": "*"
+}

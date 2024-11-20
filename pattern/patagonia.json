@@ -1,0 +1,14 @@
+{
+    "id": "*",
+    "destination": "*",
+    "name": "*",
+    "lat": "*",
+    "lng": "*",
+    "address": "*",
+    "info": "*",
+    "amenities.#id": "*",
+    "images.rooms.#id.url": "*",
+    "images.rooms.#id.description": "*",
+    "images.amenities.#id.url": "*",
+    "images.amenities.#id.description": "*"
+}

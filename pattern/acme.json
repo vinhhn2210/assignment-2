@@ -1,0 +1,13 @@
+{
+    "id": "*",
+    "destinationid": "*",
+    "name": "*",
+    "latitude": "*",
+    "longitude": "*",
+    "address": "*",
+    "city": "*",
+    "country": "*",
+    "postalcode": "*",
+    "description": "*",
+    "facilities.#id": "*"
+}

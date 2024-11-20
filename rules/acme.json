@@ -1,0 +1,21 @@
+{
+    "id": "id",
+    "destinationid": "destination_id",
+    "name": "name",
+    "latitude": "location.lat",
+    "longitude": "location.lng",
+    "address": "location.address",
+    "city": "location.city",
+    "country": "location.country",
+    "postalcode": "location.address",
+    "description": "description",
+    "facilities.#id": "amenities.general.#id",
+    "images.rooms.#id.url": "images.rooms.#id.link",
+    "images.rooms.#id.description": "images.rooms.#id.description",
+    "images.site.#id.url": "images.site.#id.link",
+    "images.site.#id.description": "images.site.#id.description",
+    "images.amenities.#id.url": "images.amenities.#id.link",
+    "images.amenities.#id.description": "images.amenities.#id.description",
+    "booking_conditions.#id": "booking_conditions.#id"
+  }
+  

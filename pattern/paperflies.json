@@ -1,0 +1,15 @@
+{
+    "hotel_id": "*",
+    "destination_id": "*",
+    "hotel_name": "*",
+    "location.address": "*",
+    "location.country": "*",
+    "details": "*",
+    "amenities.general.#id": "*",
+    "amenities.room.#id": "*",
+    "images.rooms.#id.link": "*",
+    "images.rooms.#id.caption": "*",
+    "images.site.#id.link": "*",
+    "images.site.#id.caption": "*",
+    "booking_conditions.#id": "*"
+}

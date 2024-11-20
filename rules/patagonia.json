@@ -1,0 +1,16 @@
+{
+    "id": "id",
+    "destination": "destination_id",
+    "name": "name",
+    "lat": "location.lat",
+    "lng": "location.lng",
+    "address": "location.address",
+    "info": "description",
+    "amenities.#id": "amenities.general.#id",
+    "images.rooms.#id.url": "images.rooms.#id.link",
+    "images.rooms.#id.description": "images.rooms.#id.description",
+    "images.amenities.#id.url": "images.amenities.#id.link",
+    "images.amenities.#id.description": "images.amenities.#id.description",
+    "booking_conditions.#id": "booking_conditions.#id"
+ }
+  
