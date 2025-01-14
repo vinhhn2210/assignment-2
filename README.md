@@ -1,6 +1,6 @@
 ## Some note:
 - We acknowledge that the current codebase is not optimized. However, this README aims to clarify the system’s functionality and demonstrate its potential for scalability and improvement in the future.
-
+- https://docs.google.com/presentation/d/1x9UDb_LVXbiI3y5RUUC51ReDy9oIppkhJXt9xvScZiQ/edit?usp=sharing
 # System Overview
 ![system](system.png)
 The system for this assignment is illustrated in the diagram above. Below is a detailed breakdown of its components, functionality, and future improvements.
